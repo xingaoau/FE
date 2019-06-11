@@ -1,0 +1,56 @@
+[
+  {
+      "id": 8,
+      "first_name": "Louie",
+      "last_name": "Becker",
+      "dob": "1975-01-11",
+      "remember_token": "h7WHQyX3WN",
+      "created_at": "2019-06-03 06:18:25",
+      "updated_at": "2019-06-04 05:28:58"
+  },
+  {
+      "id": 9,
+      "first_name": "Wellington",
+      "last_name": "Conn",
+      "dob": "2015-01-03",
+      "remember_token": "O9lOo8A4eF",
+      "created_at": "2019-06-03 06:18:25",
+      "updated_at": "2019-06-03 06:18:25"
+  },
+  {
+      "id": 12,
+      "first_name": "Suki",
+      "last_name": "Zhang",
+      "dob": "2019-05-01",
+      "remember_token": null,
+      "created_at": "2019-06-03 07:10:34",
+      "updated_at": "2019-06-03 07:10:34"
+  },
+  {
+      "id": 20,
+      "first_name": "obey",
+      "last_name": "code",
+      "dob": "2019-06-02",
+      "remember_token": null,
+      "created_at": "2019-06-04 04:04:45",
+      "updated_at": "2019-06-04 04:04:45"
+  },
+  {
+      "id": 21,
+      "first_name": "god",
+      "last_name": "man",
+      "dob": "2019-06-03",
+      "remember_token": null,
+      "created_at": "2019-06-04 04:05:40",
+      "updated_at": "2019-06-04 04:06:36"
+  },
+  {
+      "id": 24,
+      "first_name": "yaya",
+      "last_name": "gao",
+      "dob": "2010-04-01",
+      "remember_token": null,
+      "created_at": "2019-06-04 05:18:13",
+      "updated_at": "2019-06-04 05:20:59"
+  }
+]
